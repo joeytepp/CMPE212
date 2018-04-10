@@ -1,0 +1,25 @@
+.root {
+	-fx-vgap: 10px;
+	-fx-hgap: 10px;
+	-fx-grid-lines-visible: false;
+	-fx-padding: 10px;
+	-fx-alignment: center;
+	-fx-background-color: #FFDEA3;
+}
+
+.rootpane {
+	
+}
+
+.button {
+	-fx-font-family: "Consolas";
+	-fx-padding: 10px;
+	-fx-font-size: 12px;
+	-fx-background-color: #000000;
+	-fx-text-fill: #ffffff;
+}
+.label {
+	-fx-font-family: "Consolas";
+	-fx-font-size: 24px;
+	-fx-padding: 5px;
+}
